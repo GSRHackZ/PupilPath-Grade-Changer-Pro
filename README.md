@@ -14,7 +14,7 @@ Change grades within a class.
 
 <h3>Key points:</h3>
 <ul style="margin-bottom:10px;">
-<li>You don't have to change the symbols representing the grade or the text color. this is all automatic and will be done as you edit your grades. ✍</li><br>
+<li>You don't have to change the symbols representing the grade or the text color. This is all automatic and will be done as you edit your grades. ✍</li><br>
 <li>After saving the grades will <b>stay</b> as you set them, even after a refresh! 😲</li><br>
 <li>The graph showing you're grade at the top will be replaced with a realistic error screen. 👌</li><br>
 <li>This is <b>only</b> for flexing to your friends! 😉</li><br>
